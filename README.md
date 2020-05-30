@@ -1,15 +1,15 @@
 ### Date created
-Include the date you created this project and README file.
+30 May 2020
 
 ### Project Title
-Replace the Project Title
+Udacity GitHub Project
 
 ### Description
-Describe what your project is about and what it does
+This project is the last project in the Udacity course "Programming for Data Science with Python"
 
 ### Files used
-Include the files used
+bikeshare.py
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+Udacity course: https://www.udacity.com/course/programming-for-data-science-nanodegree--nd104
 
