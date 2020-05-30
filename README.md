@@ -13,3 +13,4 @@ bikeshare.py
 
 ### Credits
 Udacity course: https://www.udacity.com/course/programming-for-data-science-nanodegree--nd104
+Refactoring change 2.
